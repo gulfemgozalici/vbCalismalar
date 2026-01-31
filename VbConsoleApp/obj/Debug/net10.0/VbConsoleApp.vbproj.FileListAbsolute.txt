@@ -1,0 +1,14 @@
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\bin\Debug\net10.0\VbConsoleApp.exe
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\bin\Debug\net10.0\VbConsoleApp.deps.json
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\bin\Debug\net10.0\VbConsoleApp.runtimeconfig.json
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\bin\Debug\net10.0\VbConsoleApp.dll
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\bin\Debug\net10.0\VbConsoleApp.pdb
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.AssemblyInfo.vb
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.vbproj.CoreCompileInputs.cache
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.dll
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\refint\VbConsoleApp.dll
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.pdb
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\VbConsoleApp.genruntimeconfig.cache
+C:\Users\Gulfe\Desktop\vb.net\VbConsoleApp\obj\Debug\net10.0\ref\VbConsoleApp.dll
