@@ -1,0 +1,14 @@
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\bin\Debug\net10.0\vizeFinalKonsol.exe
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\bin\Debug\net10.0\vizeFinalKonsol.deps.json
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\bin\Debug\net10.0\vizeFinalKonsol.runtimeconfig.json
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\bin\Debug\net10.0\vizeFinalKonsol.dll
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\bin\Debug\net10.0\vizeFinalKonsol.pdb
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.AssemblyInfoInputs.cache
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.AssemblyInfo.vb
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.vbproj.CoreCompileInputs.cache
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.dll
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\refint\vizeFinalKonsol.dll
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.pdb
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\vizeFinalKonsol.genruntimeconfig.cache
+C:\Users\Gulfe\Desktop\vb.net\vizeFinalKonsol\obj\Debug\net10.0\ref\vizeFinalKonsol.dll
